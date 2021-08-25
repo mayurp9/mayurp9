@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mayurp9
 - 👀 I’m interested in OpenGL, and everything that is treat for our visuals.
 - 🌱 I’m currently learning very few things.
-- 💞️ I’m looking to collaborate on nothing, I run my show.
+- 💞️ I’m looking to collaborate on nothing, I'm one man show.
 - 📫 How to reach me at my personal email m.patel94@outlook.com
 
 <!---
