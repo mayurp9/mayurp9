@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mayurp9
-- 👀 I’m interested in OpenGL, and everything that is treat for our visuals.
-- 🌱 I’m currently learning very few things.
-- 💞️ I’m looking to collaborate on Win32 SDK.
+- 👀 I’m interested in working on OpenGL or Unreal Engine.
+- 🌱 I’m currently learning Kafka, AWS and Unreal Engine.
+- 💞️ I’m looking to collaborate on any Graphics project.
 - 📫 Reach me at my personal email m.patel94@outlook.com
 
 <!---
